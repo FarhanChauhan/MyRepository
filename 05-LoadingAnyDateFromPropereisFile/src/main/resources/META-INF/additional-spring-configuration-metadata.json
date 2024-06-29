@@ -1,0 +1,54 @@
+{"properties": [
+  {
+    "name": "emp.info.company.location",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.name",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.name'"
+  }
+]} "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.id-details.voter-id",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id-details.voter-id'"
+  }
+]} "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.id-details.pan-no",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id-details.pan-no'"
+  }
+]} "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.id-details.aadhar-no",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id-details.aadhar-no'"
+  }
+]} "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.id",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id'"
+  }
+]} "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.company.size",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.size'"
+  }
+]} "description": "A description for 'emp.info.company.location'"
+  },
+  {
+    "name": "emp.info.company.name",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.name'"
+  }
+]}

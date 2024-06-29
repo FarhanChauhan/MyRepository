@@ -1,0 +1,10 @@
+demo:
+  properties:
+    greetMsg: HI good morning
+    textMsg: this is a text msg
+    welcomeMsg: Welocome to iNeuron
+server:
+  port: 9999
+spring:
+  application:
+    name: Reading-YML-FIle

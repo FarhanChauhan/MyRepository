@@ -1,0 +1,1 @@
+2024-02-15 12:41:29 DEBUG ineuron.JdbcApp       main 2024-02-15 12:41:29 DEBUG ineuron.JdbcApp       main 2024-02-15 12:41:30 INFO ineuron.JdbcApp       main 2024-02-15 12:41:30 INFO ineuron.JdbcApp       main 2024-02-15 12:41:30 INFO ineuron.JdbcApp       main 2024-02-15 12:41:30 DEBUG ineuron.JdbcApp       main 

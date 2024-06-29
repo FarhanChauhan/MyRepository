@@ -1,0 +1,19 @@
+{"properties": [
+  {
+    "name": "demo.properties.greet-msg",
+    "type": "java.lang.String",
+    "description": "A description for 'demo.properties.greet-msg'"
+  },
+  {
+    "name": "demo.properties.welcome-msg",
+    "type": "java.lang.String",
+    "description": "A description for 'demo.properties.welcome-msg'"
+  }
+]} "description": "A description for 'demo.properties.greet-msg'"
+  },
+  {
+    "name": "demo.properties.text-msg",
+    "type": "java.lang.String",
+    "description": "A description for 'demo.properties.text-msg'"
+  }
+]}

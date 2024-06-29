@@ -1,0 +1,17 @@
+in.ineuron.BootLoggingUsingLog4jApplication 414 main  INFO  Starting BootLoggingUsingLog4jApplication using Java 17.0.4 with PID 25900 (D:\Ineuron notes\Spring\01-SpringBootUsingLog4j\target\classes started by Asus in D:\Ineuron notes\Spring\01-SpringBootUsingLog4j) 2024-02-18 10:37:45,185  
+ in.ineuron.BootLoggingUsingLog4jApplication 417 main  INFO  No active profile set, falling back to 1 default profile: "default" 2024-02-18 10:37:45,188  
+ in.ineuron.BootLoggingUsingLog4jApplication 876 main  INFO  Started BootLoggingUsingLog4jApplication in 0.759 seconds (process running for 1.591) 2024-02-18 10:37:45,647  
+ in.ineuron.beans.Student 880 main  DEBUG  control entering inside Student :: preparation(,) 2024-02-18 10:37:45,651  
+ in.ineuron.beans.UICourseMaterial 881 main  DEBUG  control entering inside UICourseMaterial :: courseContent 2024-02-18 10:37:45,652  
+ in.ineuron.beans.Student 881 main  INFO  Course content is choosen :: 1.HTML 2.CSS 3.JavaScript 2024-02-18 10:37:45,652  
+ in.ineuron.beans.Student 881 main  INFO  Course price is ready :: 500.0 2024-02-18 10:37:45,652  
+ in.ineuron.beans.Student 882 main  DEBUG  control exiting from Student :: prepartion(,) 2024-02-18 10:37:45,653  
+ in.ineuron.BootLoggingUsingLog4jApplication 296 main  INFO  Starting BootLoggingUsingLog4jApplication using Java 17.0.4 with PID 27464 (D:\Ineuron notes\Spring\01-SpringBootUsingLog4j\target\classes started by Asus in D:\Ineuron notes\Spring\01-SpringBootUsingLog4j) 2024-02-18 10:46:17,366  
+ in.ineuron.BootLoggingUsingLog4jApplication 298 main  INFO  No active profile set, falling back to 1 default profile: "default" 2024-02-18 10:46:17,368  
+ in.ineuron.BootLoggingUsingLog4jApplication 657 main  INFO  Started BootLoggingUsingLog4jApplication in 0.58 seconds (process running for 0.895) 2024-02-18 10:46:17,727  
+ in.ineuron.beans.Student 660 main  DEBUG  control entering inside Student :: preparation(,) 2024-02-18 10:46:17,730  
+ in.ineuron.beans.JavaCourseMaterial 661 main  DEBUG  control entering into JavaCourseMaterial :: courseContent() 2024-02-18 10:46:17,731  
+ in.ineuron.beans.Student 661 main  INFO  Course content is choosen :: 1.oops 2.ExcpetionHandling 3.Collection.... 2024-02-18 10:46:17,731  
+ in.ineuron.beans.Student 661 main  INFO  Course price is ready :: 400.0 2024-02-18 10:46:17,731  
+ in.ineuron.beans.Student 662 main  DEBUG  control exiting from Student :: prepartion(,) 2024-02-18 10:46:17,732  
+ 

@@ -1,0 +1,11 @@
+server:
+  port: 7777
+spring:
+  application:
+    name:
+      client-config
+  cloud:
+    config:
+      uri: http://localhost:9999/
+  profiles:
+    active: prod

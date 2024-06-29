@@ -1,0 +1,24 @@
+emp:
+  info:
+    company:
+      location: Delhi
+      name: PWSkills
+      size: 5000
+    id: 10
+    id-details:
+      aadhar-no: 278451156874
+      pan-no: BZQPC0158P
+      voter-id: UTB0158P
+    name: sachin
+    phone-numbers:
+    - 9575412388
+    - 9988997755
+    - 9998887776
+    skills:
+    - java
+    - Spring
+    - ORM
+    team-members:
+    - gambhir
+    - kohli
+    - sehwag
